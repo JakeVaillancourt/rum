@@ -32,14 +32,3 @@ function that allows us to read in our instructions from the input file.
 I tested our program against midmark using the command "Measure-Command{cargo run --release midmark.um}"
 on powershell. It ran in 9.56 seconds.
 
-# Says approximately how many hours you have spent analyzing the assignment
-
-Approximately 4 hours.
-
-# Says approximately how many hours you have spent preparing your design
-
-Approximately 6 hours
-
-# Says approximately how many hours you have spent solving the problems after your analysis
-
-Approximately 4 hours.
